@@ -1,4 +1,3 @@
-last question improve my github profile readme to include my repos
 ![JavaScript & TypeScript](https://yt3.googleusercontent.com/7nXINKEaZh9mvXE2uf_UsRVQIHf-_Ejw4Q0hnFxy2xVaV2huNnyg_8agw5MG_4_q8F--BCm1=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 ## Prompt-bit
