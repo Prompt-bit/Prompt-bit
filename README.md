@@ -1,51 +1,21 @@
+last question improve my github profile readme to include my repos
 ![JavaScript & TypeScript](https://yt3.googleusercontent.com/7nXINKEaZh9mvXE2uf_UsRVQIHf-_Ejw4Q0hnFxy2xVaV2huNnyg_8agw5MG_4_q8F--BCm1=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
-# Hi, I'm Prompt-bit 👋  
-*Web developer from Thailand passionate about TypeScript, React, and clean code.*
+## Prompt-bit
+I'm Prompt from Thailand, and I make websites using HTML, CSS and JavaScript I sometimes use React with TypeScript or JavaScript but the one I love most is TypeScript. I really enjoy writing code in my favorite code editor available for download on Windows and Mac called Visual Studio Code. I also enjoy markdown which is everything you got to know to get started writing documentations on Github.
 
+## Websites
+* https://prompt-bit.github.io/food-picker/ **Hosted:** Github
+
+
+## Skills & Experience
+* ⚛️React
+* 🖥️HTML, CSS, JavaScript & TypeScript
 ---
+- 🔭 I’m currently working on Updating Food Generator 
+- 🌱 I’m currently learning React 
+- 👯 I’m looking to collaborate on Web Projects 
+- 🤔 I’m looking for help with Java 
 
-## About Me  
-I'm Prompt from Thailand. I create websites using **HTML**, **CSS**, and **JavaScript**, and I love working with **TypeScript** and **React**. My favorite editor is **Visual Studio Code**—I use it daily to craft clean and efficient code. Markdown is also one of my favorite tools for writing documentation and sharing knowledge on GitHub.
 
----
-
-## 🔧 Skills & Technologies  
-- ⚛️ React  
-- 🖥️ HTML, CSS, JavaScript & TypeScript  
-- 📄 Markdown  
-
----
-
-## 🚀 Current Focus  
-- 🔭 Updating my **Food Generator** web app  
-- 🌱 Learning more advanced React patterns  
-- 👯 Looking to collaborate on interesting web projects  
-- 🤔 Seeking help with Java  
-
----
-
-## 🌐 Websites & Projects
-
-### Featured Website  
-- [Food Picker](https://prompt-bit.github.io/food-picker/) — A handy web app for choosing meals. *(Hosted on GitHub Pages)*
-
-### Selected Repositories  
-Here are some of my public repos you might find interesting:
-
-- [Food Picker](https://github.com/Prompt-bit/food-picker) — The source code behind my meal picker web app.  
-
-*Check out my GitHub profile for more projects:* [github.com/Prompt-bit](https://github.com/Prompt-bit)
-
----
-
-## 📫 Connect with Me  
-
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/Prompt-bit)  
-[![Dev.to](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg)](https://dev.to/ppprompt)  
-[![Stack Overflow](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg)](https://stackoverflow.com/users/28432190)  
-[![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg)](https://www.youtube.com/channel/UCxlmYCY3eH-8FjLt0olr-Og)  
-
----
-
-Thanks for stopping by! Feel free to reach out or explore my repos. 😊
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Prompt-bit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/ppprompt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/28432190)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCxlmYCY3eH-8FjLt0olr-Og)  
