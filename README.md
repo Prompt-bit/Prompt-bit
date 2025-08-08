@@ -6,6 +6,33 @@ I'm Prompt from Thailand, and I make websites using HTML, CSS and JavaScript I s
 ## Websites
 * https://prompt-bit.github.io/food-picker/ **Hosted:** Github
 
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌱 <a href="https://github.com/Prompt-bit/harvest-moon">Harvest Moon</a> </h3>
+      <p>Reminds you of the olden times</p>
+      <p><code>HTML & CSS & JS</code></p>
+    </td>
+    <td width="50%">
+      <h3>🎞️ <a href="https://github.com/Prompt-bit/videoshare">VideoShare</a></h3>
+      <p>Based on the YouTube API</p>
+      <p><code>HTML & CSS & JS</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🍉 <a href="https://github.com/Prompt-bit/food-picker">Food Meal Generator</a></h3>
+      <p>Generates what you should eat every day</p>
+      <p><code>C#</code></p>
+    </td>
+    <td width="50%">
+      <h3> <a href="https://github.com/ThioJoe/Gmic-Animation-Tools">Maze Shad</a> ft. <a href="github.com/pim-iop">pim-iop</a></h3>
+      <p>Maze Shad official website</p>
+      <p><code>HTML & CSS & JS</code></p>
+    </td>
+  </tr>
+</table>
+
 
 ## Skills & Experience
 * ⚛️React
