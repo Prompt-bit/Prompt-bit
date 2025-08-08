@@ -7,7 +7,7 @@
     <td width="50%">
       <h3>🌱 <a href="https://github.com/Prompt-bit/harvest-moon">Harvest Moon - BETA version</a> </h3>
       <p>Reminds you of the olden times</p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <p><code>HTML & CSS & JS</code></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <p>🖥️ <code>HTML & CSS & JS</code></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td width="50%">
       <h3>🎞️ <a href="https://github.com/Prompt-bit/videoshare">VideoShare - YouTube API</a></h3>
