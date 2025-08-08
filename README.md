@@ -5,19 +5,19 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>🌱 <a href="https://github.com/Prompt-bit/harvest-moon">Harvest Moon</a> </h3>
+      <h3>🌱 <a href="https://github.com/Prompt-bit/harvest-moon">Harvest Moon Clone - BETA version</a> </h3>
       <p>Reminds you of the olden times</p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <p><code>HTML & CSS & JS</code></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td width="50%">
-      <h3>🎞️ <a href="https://github.com/Prompt-bit/videoshare">VideoShare</a></h3>
+      <h3>🎞️ <a href="https://github.com/Prompt-bit/videoshare">VideoShare - YouTube API</a></h3>
       <p>Based on the YouTube API</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <p><code>HTML & CSS & JS</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🍉 <a href="https://prompt-bit.github.io/food-picker">Food Meal Generator</a></h3>
+      <h3>🍉 <a href="https://prompt-bit.github.io/food-picker">Food Meal Generator - Generate Food Meals</a></h3>
       <p>Generates what you should eat every day</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <p><code>ReactTS</code></p>
     </td>
