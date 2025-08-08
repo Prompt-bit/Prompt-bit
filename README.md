@@ -20,7 +20,7 @@ I'm Prompt from Thailand, and I make websites using HTML, CSS and JavaScript I s
     <td width="50%">
       <h3>🍉 <a href="https://github.com/Prompt-bit/food-picker">Food Meal Generator</a></h3>
       <p>Generates what you should eat every day</p>
-      <p><code>ReactJS</code></p>
+      <p><code>ReactTS</code></p>
     </td>
     <td width="50%">
       <h3> <a href="https://github.com/ThioJoe/Gmic-Animation-Tools">Maze Shad</a> <a href="https://github.com/pim-iop">ft. pim-iop</a></h3>
