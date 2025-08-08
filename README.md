@@ -22,7 +22,7 @@
       <p><code>ReactTS</code></p>
     </td>
     <td width="50%">
-      <h3> <a href="https://github.com/ThioJoe/Gmic-Animation-Tools">Maze Shad</a> <a href="https://github.com/pim-iop">ft. pim-iop</a></h3>
+      <h3> <a href="https://github.com/Prompt-bit/maze-shad">Maze Shad</a> <a href="https://github.com/pim-iop">ft. pim-iop</a></h3>
       <p>Maze Shad official website</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <p><code>HTML & CSS & JS</code></p>
     </td>
