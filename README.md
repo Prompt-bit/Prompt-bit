@@ -26,7 +26,7 @@ I'm Prompt from Thailand, and I make websites using HTML, CSS and JavaScript I s
       <p><code>C#</code></p>
     </td>
     <td width="50%">
-      <h3> <a href="https://github.com/ThioJoe/Gmic-Animation-Tools">Maze Shad</a> <a href="github.com/pim-iop">ft. pim-iop</a></h3>
+      <h3> <a href="https://github.com/ThioJoe/Gmic-Animation-Tools">Maze Shad</a> <a href="https://github.com/pim-iop">ft. pim-iop</a></h3>
       <p>Maze Shad official website</p>
       <p><code>HTML & CSS & JS</code></p>
     </td>
