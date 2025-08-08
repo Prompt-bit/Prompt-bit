@@ -12,19 +12,19 @@
     <td width="50%">
       <h3>🎞️ <a href="https://github.com/Prompt-bit/videoshare">VideoShare - YouTube API</a></h3>
       <p>Based on the YouTube API</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <p><code>HTML & CSS & JS</code></p>
+      <p> 🖥️ <code>HTML & CSS & JS</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🍉 <a href="https://prompt-bit.github.io/food-picker">Food Meal Generator - Generate Food Meals</a></h3>
       <p>Generates what you should eat every day</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <p><code>ReactTS</code></p>
+      <p>⚛️ <code>ReactTS</code></p>
     </td>
     <td width="50%">
       <h3> <a href="https://github.com/Prompt-bit/maze-shad">Maze Shad</a> <a href="https://github.com/pim-iop">ft. pim-iop</a></h3>
       <p>Maze Shad official website</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <p><code>HTML & CSS & JS</code></p>
+      <p>🖥️ <code>HTML & CSS & JS</code></p>
     </td>
   </tr>
 </table>
