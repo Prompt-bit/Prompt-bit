@@ -2,26 +2,26 @@
 
 ## Prompt-bit
 
-<table>
+<table  style="border-radius: 10px">
   <tr>
-    <td width="50%" style="border-radius: 10px">
+    <td width="50%">
       <h3>🌱 <a href="https://github.com/Prompt-bit/harvest-moon">Harvest Moon - BETA version</a> </h3>
       <p>Reminds you of the olden times</p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <p><code>HTML & CSS & JS</code></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
-    <td width="50%" style="border-radius: 10px">
+    <td width="50%">
       <h3>🎞️ <a href="https://github.com/Prompt-bit/videoshare">VideoShare - YouTube API</a></h3>
       <p>Based on the YouTube API</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <p><code>HTML & CSS & JS</code></p>
     </td>
   </tr>
   <tr>
-    <td width="50%" style="border-radius: 10px">
+    <td width="50%">
       <h3>🍉 <a href="https://prompt-bit.github.io/food-picker">Food Meal Generator - Generate Food Meals</a></h3>
       <p>Generates what you should eat every day</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <p><code>ReactTS</code></p>
     </td>
-    <td width="50%" style="border-radius: 10px">
+    <td width="50%">
       <h3> <a href="https://github.com/Prompt-bit/maze-shad">Maze Shad</a> <a href="https://github.com/pim-iop">ft. pim-iop</a></h3>
       <p>Maze Shad official website</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <p><code>HTML & CSS & JS</code></p>
