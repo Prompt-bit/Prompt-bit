@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>🍉 <a href="https://github.com/Prompt-bit/food-picker">Food Meal Generator</a></h3>
+      <h3>🍉 <a href="https://prompt-bit.github.io/food-picker">Food Meal Generator</a></h3>
       <p>Generates what you should eat every day</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <p><code>ReactTS</code></p>
     </td>
