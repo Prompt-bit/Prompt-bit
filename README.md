@@ -3,9 +3,6 @@
 ## Prompt-bit
 I'm Prompt from Thailand, and I make websites using HTML, CSS and JavaScript I sometimes use React with TypeScript or JavaScript but the one I love most is TypeScript. I really enjoy writing code in my favorite code editor available for download on Windows and Mac called Visual Studio Code. I also enjoy markdown which is everything you got to know to get started writing documentations on Github.
 
-## Websites
-* https://prompt-bit.github.io/food-picker/ **Hosted:** Github
-
 <table>
   <tr>
     <td width="50%">
@@ -23,7 +20,7 @@ I'm Prompt from Thailand, and I make websites using HTML, CSS and JavaScript I s
     <td width="50%">
       <h3>🍉 <a href="https://github.com/Prompt-bit/food-picker">Food Meal Generator</a></h3>
       <p>Generates what you should eat every day</p>
-      <p><code>C#</code></p>
+      <p><code>JS</code></p>
     </td>
     <td width="50%">
       <h3> <a href="https://github.com/ThioJoe/Gmic-Animation-Tools">Maze Shad</a> <a href="https://github.com/pim-iop">ft. pim-iop</a></h3>
@@ -33,6 +30,8 @@ I'm Prompt from Thailand, and I make websites using HTML, CSS and JavaScript I s
   </tr>
 </table>
 
+## Websites
+* https://prompt-bit.github.io/food-picker/ **Hosted:** Github
 
 ## Skills & Experience
 * ⚛️React
