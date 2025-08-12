@@ -36,7 +36,6 @@ I'm Prompt from Thailand, and I make websites using HTML, CSS and JavaScript I s
 </details>
 
 
-
 ## Websites
 * https://prompt-bit.github.io/food-picker/ **Hosted:** Github
 
