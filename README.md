@@ -27,21 +27,13 @@ I'm Prompt from Thailand, and I make websites using HTML, CSS, and JavaScript. I
 
 ---
 
-## Currently
-
 - 🔭 Working on updating the Food Generator  
 - 🌱 Learning React deeply  
 - 👯 Looking to collaborate on web projects  
 - 🤔 Seeking help with Java
 
----
 
-## Contact Me
-
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="24"/>](https://github.com/Prompt-bit)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev.to" height="24"/>](https://dev.to/ppprompt)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stack Overflow" height="24"/>](https://stackoverflow.com/users/28432190)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="24"/>](https://www.youtube.com/channel/UCxlmYCY3eH-8FjLt0olr-Og)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="36"/>](https://github.com/Prompt-bit)  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev.to" height="36"/>](https://dev.to/ppprompt)  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stack Overflow" height="36"/>](https://stackoverflow.com/users/28432190)  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="36"/>](https://www.youtube.com/channel/UCxlmYCY3eH-8FjLt0olr-Og)
 
 ---
 
