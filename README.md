@@ -5,8 +5,7 @@
 I'm Prompt from Thailand, and I make websites using HTML, CSS and JavaScript I sometimes use React with TypeScript or JavaScript but the one I love most is TypeScript. I really enjoy writing code in my favorite code editor available for download on Windows and Mac called Visual Studio Code. I also enjoy markdown which is everything you got to know to get started writing documentations on Github.
 
 
-<details>
-  <summary>Repositories</summary>
+
   <table  style="border-radius: 10px">
     <tr>
       <td width="50%">
@@ -31,9 +30,13 @@ I'm Prompt from Thailand, and I make websites using HTML, CSS and JavaScript I s
         <p>Maze Shad official website</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <p>🖥️ <code>HTML & CSS & JS</code></p>
       </td>
+      <td width="50%">
+        <h3> <a href="https://github.com/Prompt-bit/System-Info-Viewer">System Info Viewer</a></h3>
+        <p>View your system info!!</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <p>🖥💪 <code>Powershell</code></p>
+      </td>
     </tr>
   </table>
-</details>
 
 
 ## Websites
