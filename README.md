@@ -2,49 +2,47 @@
 
 ## Prompt-bit
 
-I'm Prompt from Thailand, and I make websites using HTML, CSS and JavaScript I sometimes use React with TypeScript or JavaScript but the one I love most is TypeScript. I really enjoy writing code in my favorite code editor available for download on Windows and Mac called Visual Studio Code. I also enjoy markdown which is everything you got to know to get started writing documentations on Github.
+I'm Prompt from Thailand, and I make websites using HTML, CSS, and JavaScript. I sometimes use React with TypeScript or JavaScript, but the one I love most is TypeScript. I really enjoy writing code in my favorite editor, Visual Studio Code, available on Windows and Mac. I also enjoy Markdown — everything you need to know to get started writing documentation on GitHub.
 
+---
 
+## Projects
 
-  <table  style="border-radius: 10px">
-    <tr>
-      <td width="50%">
-        <h3>🎞️ <a href="https://github.com/Prompt-bit/videoshare">VideoShare - YouTube API</a></h3>
-        <p>Based on the YouTube API</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <p> 🖥️ <code>HTML & CSS & JS</code></p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3>🍉 <a href="https://prompt-bit.github.io/food-picker">Food Meal Generator - Generate Food Meals</a></h3>
-        <p>Generates what you should eat every day</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <p>⚛️ <code>ReactTS</code></p>
-      </td>
-      <td width="50%">
-        <h3> <a href="https://github.com/Prompt-bit/maze-shad">Maze Shad</a> <a href="https://github.com/pim-iop">ft. pim-iop</a></h3>
-        <p>Maze Shad official website</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <p>🖥️ <code>HTML & CSS & JS</code></p>
-      </td>
-      <td width="50%">
-        <h3> <a href="https://github.com/Prompt-bit/System-Info-Viewer">System Info Viewer</a></h3>
-        <p>View your system info!!</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <p>🖥💪 <code>Powershell</code></p>
-      </td>
-    </tr>
-  </table>
+| 🎞️ [VideoShare - YouTube API](https://github.com/Prompt-bit/videoshare) | 🍉 [Food Meal Generator](https://prompt-bit.github.io/food-picker) | 🕸️ [Maze Shad ft. pim-iop](https://github.com/Prompt-bit/maze-shad) | 🖥️ [System Info Viewer](https://github.com/Prompt-bit/System-Info-Viewer) |
+|---|---|---|---|
+| YouTube API based video sharing app built with HTML, CSS, and JS. | Generates daily food meal ideas with React & TypeScript. | Official Maze Shad website built with HTML, CSS, and JS. | View your system info with a PowerShell dashboard. |
 
+---
 
 ## Websites
-* https://prompt-bit.github.io/food-picker/ **Hosted:** Github
+
+* [Food Meal Generator (Hosted on GitHub)](https://prompt-bit.github.io/food-picker/)
+
+---
 
 ## Skills & Experience
-* ⚛️React
-* 🖥️HTML, CSS, JavaScript & TypeScript
+
+* ⚛️ React  
+* 🖥️ HTML, CSS, JavaScript & TypeScript  
+
 ---
-- 🔭 I’m currently working on Updating Food Generator 
-- 🌱 I’m currently learning React 
-- 👯 I’m looking to collaborate on Web Projects 
-- 🤔 I’m looking for help with Java 
+
+## Currently
+
+- 🔭 Working on updating the Food Generator  
+- 🌱 Learning React deeply  
+- 👯 Looking to collaborate on web projects  
+- 🤔 Seeking help with Java
+
+---
+
+## Contact Me
+
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="24"/>](https://github.com/Prompt-bit)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev.to" height="24"/>](https://dev.to/ppprompt)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stack Overflow" height="24"/>](https://stackoverflow.com/users/28432190)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="24"/>](https://www.youtube.com/channel/UCxlmYCY3eH-8FjLt0olr-Og)
+
+---
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Prompt-bit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/ppprompt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/28432190)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCxlmYCY3eH-8FjLt0olr-Og)  
